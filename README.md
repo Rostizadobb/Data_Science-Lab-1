@@ -63,6 +63,6 @@ http://cloud.ibm.com
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
 
-Y listo! Puedes continuar con el siguente lab AQUI.
+Y listo! Puedes continuar con el siguente lab [**AQUI**](https://github.com/Rostizadobb/Data-Science-Lab-2).
 Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.
 https://github.com/ibmdevelopermx
