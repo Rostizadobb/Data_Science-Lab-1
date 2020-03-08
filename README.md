@@ -62,3 +62,7 @@ http://cloud.ibm.com
 [url-academic]: https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home/
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
+
+Y listo! Puedes continuar con el siguente lab AQUI.
+Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.
+https://github.com/ibmdevelopermx
